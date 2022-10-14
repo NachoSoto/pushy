@@ -51,6 +51,7 @@
         <dependency>
             <groupId>com.eatthepath</groupId>
             <artifactId>fast-uuid</artifactId>
+            <version>0.2.0</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
