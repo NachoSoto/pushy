@@ -26,7 +26,6 @@
 
     <artifactId>pushy</artifactId>
     <version>0.15.2-SNAPSHOT</version>
-    <packaging>bundle</packaging>
     <name>Pushy</name>
 
     <parent>
